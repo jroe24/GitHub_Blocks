@@ -1,0 +1,38 @@
+.container{
+    width: 900px;
+    height: 200px;
+    background-color:teal;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+    
+}
+.container2{
+    width: 900px;
+    height: 200px;
+    background-color: violet;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+
+}
+.container3{
+    width: 900px;
+    height: 200px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+.images {
+    margin: 50px;
+}
+img {
+    width: 150px;
+}
+.giantcontainer{
+    width: 1000px;
+    height: 700px;
+    background-color: grey;
+    padding: 25px;
+}
